@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "390432368444",
+    "project_id": "fmcchatapp",
+    "storage_bucket": "fmcchatapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390432368444:android:692f102d5aa28c5006a039",
+        "android_client_info": {
+          "package_name": "com.example.fcmchatapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQcoEDC92ofTcD37kii7DKHsJMVUBrskQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
